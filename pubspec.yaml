@@ -1,0 +1,34 @@
+name: kidswatch
+description: A Flutter app for taking periodic screenshots
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+      sdk: flutter
+  intl: ^0.20.2
+
+
+  path_provider: ^2.1.3
+  workmanager: ^0.8.0
+  flutter_secure_storage: ^9.0.0
+  shared_preferences: ^2.2.2
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

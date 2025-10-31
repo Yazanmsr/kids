@@ -1,0 +1,1 @@
+ C:\\Projects\\kidswatch\\.dart_tool\\flutter_build\\0cc4d6d1a4c43d32dbe092043763004c\\native_assets.json: 
